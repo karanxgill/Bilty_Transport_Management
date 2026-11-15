@@ -1,3 +1,5 @@
+/// <reference path="./types/express.d.ts" />
+
 import "dotenv/config";
 import express, { Request, Response, NextFunction } from "express";
 import z, { object, string } from "zod";
