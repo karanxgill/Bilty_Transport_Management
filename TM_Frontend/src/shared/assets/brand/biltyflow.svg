@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="576" viewBox="0 0 2048 576" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">BiltyFlow</title>
+  <desc id="desc">BiltyFlow logo: a violet digital document with a checkmark and the BiltyFlow wordmark.</desc>
+  <defs>
+    <linearGradient id="documentGradient" x1="225" y1="157" x2="570" y2="525" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A16BFF"/>
+      <stop offset="0.52" stop-color="#783BE4"/>
+      <stop offset="1" stop-color="#5423BD"/>
+    </linearGradient>
+    <linearGradient id="flowGradient" x1="1280" y1="260" x2="1910" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A16BFF"/>
+      <stop offset="1" stop-color="#652ED2"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Digital bilty icon -->
+  <path d="M225 198C225 176 243 157 267 157H444L570 277V484C570 508 552 525 528 525H308C279 525 259 504 259 477V436H290C302 436 311 427 311 415C311 403 302 394 290 394H225V385C225 372 236 361 250 361H315C341 361 358 341 358 311C358 282 339 263 313 263H228C226 243 225 220 225 198Z" fill="url(#documentGradient)"/>
+  <path d="M444 157V236C444 261 458 277 482 277H570L444 157Z" fill="#D8C5FF"/>
+  <!-- Sharing strokes -->
+  <path d="M145 311H299" stroke="#B99AFB" stroke-width="51" stroke-linecap="round"/>
+  <path d="M222 386H310" stroke="#B99AFB" stroke-width="50" stroke-linecap="round"/>
+  <!-- Check -->
+  <path d="M375 389L402 418L497 337" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Wordmark -->
+  <text x="631" y="470" font-family="Inter, Arial, Helvetica, sans-serif" font-size="302" font-weight="800" letter-spacing="-13" fill="#111827">Bilty</text>
+  <text x="1275" y="470" font-family="Inter, Arial, Helvetica, sans-serif" font-size="302" font-weight="800" letter-spacing="-13" fill="url(#flowGradient)">Flow</text>
+</svg>

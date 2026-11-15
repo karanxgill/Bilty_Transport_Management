@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="2048"
+   height="682"
+   viewBox="0 0 2048 682"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="biltyflow_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="iconGradient"
+       x1="190"
+       y1="130"
+       x2="570"
+       y2="535"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#9A63FF"
+         id="stop1" />
+      <stop
+         offset="0.48"
+         stop-color="#7540E8"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#5522C8"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       id="flowGradient"
+       x1="1280"
+       y1="230"
+       x2="1950"
+       y2="500"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#A16BFF"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#6B32DD"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       id="speedGradient"
+       x1="125"
+       y1="285"
+       x2="335"
+       y2="420"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#BFA5FF"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#9E7BEF"
+         id="stop7" />
+    </linearGradient>
+  </defs>
+  <!-- Digital bilty/document icon -->
+  <path
+     d="M226 157            C226 157 406 157 444 157            L570 280            L570 486            C570 509 551 527 528 527            L269 527            C245 527 226 508 226 484            Z"
+     fill="url(#iconGradient)"
+     id="path7" />
+  <!-- Folded corner -->
+  <path
+     d="M444 157 L444 246            C444 267 461 280 482 280            L570 280 Z"
+     fill="#D5C2FF"
+     id="path8" />
+  <!-- Motion / digital lines -->
+  <path
+     d="M157 285 H317            C341 285 358 302 358 324            C358 346 341 363 317 363            H191"
+     fill="none"
+     stroke="url(#speedGradient)"
+     stroke-width="42"
+     stroke-linecap="round"
+     id="path9" />
+  <path
+     d="M190 412 H300"
+     fill="none"
+     stroke="#A98AF5"
+     stroke-width="40"
+     stroke-linecap="round"
+     id="path10" />
+  <path
+     d="M259 458 H302"
+     fill="none"
+     stroke="#A98AF5"
+     stroke-width="40"
+     stroke-linecap="round"
+     id="path11" />
+  <!-- Check mark -->
+  <path
+     d="M354 392 L398 436 L500 331"
+     fill="none"
+     stroke="#FFFFFF"
+     stroke-width="28"
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="path12" />
+  <!-- Wordmark -->
+  <path
+     d="m 654.14258,472 h 92.40234 c 45.92285,0 71.9458,-24.49219 71.9458,-57.89063 0,-30.05859 -21.70898,-48.84521 -46.61865,-49.81933 v -2.22656 c 22.54395,-4.59229 38.54736,-21.01319 38.54736,-44.80957 0,-31.31104 -23.93554,-52.60254 -70.27588,-52.60254 h -86.00097 z m 49.12353,-39.66064 v -50.37598 h 32.70264 c 19.34326,0 31.31104,10.43701 31.31104,26.57959 0,14.75098 -10.29786,23.79639 -32.28516,23.79639 z m 0,-82.24366 v -46.20117 h 29.3628 c 16.97754,0 27.69287,8.76709 27.69287,22.68311 0,14.89013 -11.96778,23.51806 -28.52783,23.51806 z M 830.40039,472 h 48.5669 V 316.41895 h -48.5669 z m 24.21387,-173.81104 c 13.91601,0 25.18799,-10.43701 25.18799,-23.3789 0,-12.9419 -11.27198,-23.37891 -25.18799,-23.37891 -13.77686,0 -25.04883,10.43701 -25.04883,23.37891 0,12.94189 11.27197,23.3789 25.04883,23.3789 z m 92.06592,-33.53759 h -48.5669 V 472 h 48.5669 z m 107.23442,51.76758 h -27.9712 v -37.01661 h -48.56694 v 37.01661 h -20.5957 v 36.04248 h 20.5957 v 76.25976 c 0,29.64111 17.39502,45.50537 50.37594,45.50537 9.1846,0 19.4825,-0.97412 30.337,-4.03564 l -6.2623,-35.34668 c -2.644,0.6958 -10.1586,1.66992 -13.4985,1.66992 -8.7671,0 -12.3852,-3.89648 -12.3852,-12.10693 v -71.9458 h 27.9712 z m 18.1718,210.13183 c 7.2364,2.7832 18.9258,4.73145 30.8936,4.73145 34.9292,0 51.9067,-17.67334 61.3696,-42.86133 l 65.2661,-172.00195 h -50.6543 l -24.9096,76.1206 c -4.1748,13.22022 -7.6539,26.44043 -10.8545,40.49561 -2.6441,-14.05518 -5.149,-27.13623 -9.1846,-40.49561 l -23.2398,-76.1206 h -51.2109 l 58.0298,155.85937 0.1392,6.54053 c 0.6958,12.66357 -11.1329,18.64746 -28.667,13.91601 l -6.1231,-1.66992 z"
+     id="text12"
+     style="font-weight:800;font-size:285px;font-family:Inter, Arial, sans-serif;letter-spacing:-13;fill:#101a2b"
+     aria-label="Bilty" />
+  <path
+     d="m 1271.1426,472 h 49.1235 v -75.4248 h 82.8003 v -39.24317 h -82.8003 v -52.60254 h 91.8457 v -40.07812 h -140.9692 z m 202.2807,-207.34863 h -48.5669 V 472 h 48.5669 z m 91.3702,210.27099 c 48.5669,0 78.0688,-32.28515 78.0688,-80.15625 0,-48.01025 -29.5019,-80.29541 -78.0688,-80.29541 -48.7061,0 -78.2081,32.28516 -78.2081,80.29541 0,47.8711 29.502,80.15625 78.2081,80.15625 z m 0,-37.15576 c -18.6475,0 -28.667,-17.39502 -28.667,-43.27881 0,-26.02295 10.0195,-42.86133 28.667,-42.86133 18.6474,0 28.6669,16.83838 28.6669,42.86133 0,25.88379 -10.0195,43.27881 -28.6669,43.27881 z M 1684.1348,472 h 49.541 l 16.1426,-55.80322 c 3.2006,-11.27198 6.5405,-27.97119 9.602,-43.00049 3.2007,15.0293 6.4014,31.58935 9.6021,43.00049 L 1785.165,472 h 49.5411 l 45.7836,-155.58105 h -51.6284 l -11.2719,53.29834 c -3.6182,17.8125 -7.793,37.29492 -11.272,59.83886 -4.314,-22.54394 -9.3237,-42.16553 -13.0811,-59.83886 l -11.9677,-53.29834 h -43.1397 l -12.3852,53.29834 c -4.0357,17.67333 -8.9063,37.29492 -13.0811,59.56054 -3.7573,-22.54394 -8.2105,-42.02637 -11.6895,-59.56054 l -11.4111,-53.29834 h -50.7934 z"
+     id="text13"
+     style="font-weight:800;font-size:285px;font-family:Inter, Arial, sans-serif;letter-spacing:-13;fill:url(#flowGradient)"
+     aria-label="Flow" />
+</svg>
