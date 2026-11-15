@@ -42,4 +42,5 @@
     "skipLibCheck": true,
   },
   "include": ["src/**/*", "src/app.ts", "src/server.ts"],
+  "exclude": ["src/test/**/*"],
 }
